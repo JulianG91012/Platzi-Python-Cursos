@@ -17,9 +17,6 @@ def validar_num(num):
             num_t = input("Ingrese un valor numérico.\n")
         num_t = int(num_t)
     return num_t
-    
-
-
 
 def crearTuplas(tamanno):
     """Crea tuplas según lo solicitado por el usuario\n
