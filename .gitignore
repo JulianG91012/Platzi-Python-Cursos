@@ -1,2 +1,5 @@
 *.zip
 *.txt
+/Fundamentos Web Scrapping/laRepublica/
+/PythonIntermedio/venv/
+.vscode

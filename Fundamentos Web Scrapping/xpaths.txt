@@ -1,0 +1,5 @@
+Aquí dejaremos la forma en que se obtiene la información que queremos:
+Links: //text-fill/a/@href // NOTA: se cambió h2 por text-fill
+Titulo: //div[@class="mb-auto"]/h2/span/text()
+Resumen: //div[@class="lead"]/p/text() 
+Cuerpo: //div[@class="html-content"]/p[not(@class)]/text()
